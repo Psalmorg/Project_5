@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![Mobile View](https://github.com/Psalmorg/Project_5/blob/main/product-preview-card-component-main%20screenshot.png)
-![Destop view](https://github.com/Psalmorg/Project_5/blob/main/product-preview-card-component-main_d_creenshot.png)
+![Destop view](https://github.com/Psalmorg/Project_5/blob/main/product-preview-card-component-main_d_screenshot.png)
 
 
 ### Links
