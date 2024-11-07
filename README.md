@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile View](https://github.com/Psalmorg/Project_5/blob/main/product-preview-card-component-main%20screenshot.png)
-![Destop view](https://github.com/Psalmorg/Project_5/blob/main/product-preview-card-component-main_d_screenshot.png)
+[Mobile View](https://github.com/Psalmorg/Project_5/blob/main/product-preview-card-component-main%20screenshot.png)
+[Destop view](https://github.com/Psalmorg/Project_5/blob/main/product-preview-card-component-main_d_screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Psalmorg/Project_5)
+- Live Site URL: [Add live site URL here](https://psalmorg.github.io/Project_5/)
 
 ## My process
 
